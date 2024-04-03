@@ -1,5 +1,5 @@
 # 100-Dias-de-Codigo
-Guía para el desafío de 100 días de programación, esto te ayudará a mantenerte en la ruta. 
+Guía para el desafío de 100 días de programación, esto te ayudará a mantenerte en la ruta.
 Esta es una traducción del Repositorio 100 days of codegithub.com/Kallaway/100-days-of-code
 
 # Me he unido al desafío de #100DaysOfCode.
@@ -28,4 +28,4 @@ Unete cuando quieras, sin invitación. Nos ayudamos entre todos en esta tarea
 ## Nota
 * ¿Preguntas? Al Twitter de: [@ka11away](https://twitter.com/ka11away) si manejas inglés o bien podes preguntarme también a mi: [@nelsondcg1](https://twitter.com/nelsondcg1)
 * Si te gusta este repositorio considera forkear y mejorar;
-* Si tenes más información de más recursos, por favor, informanos :)
+* Si tenes más información de más recursos, por favor, informanos :
